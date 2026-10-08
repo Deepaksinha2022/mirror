@@ -1,0 +1,7 @@
+.env
+node_modules/
+
+backend/mirror.db
+backend/mirror.db-shm
+backend/mirror.db-wal
+backend/uploads/
